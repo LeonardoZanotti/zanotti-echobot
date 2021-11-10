@@ -1,4 +1,4 @@
-﻿# zanotti-echobot
+﻿# Zanotti echobot
 
 Bot Framework v4 echo bot sample.
 
